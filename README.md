@@ -38,7 +38,9 @@ Reference(s):
 
 2. Bauer, Laren, Wendy Edelberg, Jimmy O'Donnell, and Jay Shambaugh (2020). "Who are the potentially misclassified in the Employment Report?" Brookings. Published online on June 30, 2020. https://www.brookings.edu/blog/up-front/2020/06/30/who-are-the-potentially-misclassified-in-the-employment-report/#cancel
 
-3. Schwam, Daniel, and Kathryn Edwards, “Within Unemployment Transitions in the Current Population Survey,” GitHub, RAND Corporation Repository, last updated 24 August 2020. As of August 27, 2020: https://github.com/RANDCorporation/Temporary-Layoff-Transitions
+3. Edwards, Kathryn. “What Unemployment Statistics Obscure About Temporary Layoffs,” TheRANDBlog, published online 17 August 2020. URL: https://www.rand.org/blog/2020/08/what-unemployment-statistics-obscure-about-temporary-layoffs.html.
+
+4. Schwam, Daniel, and Kathryn Edwards, “Within Unemployment Transitions in the Current Population Survey,” GitHub, RAND Corporation Repository, last updated 30 September 2020. As of September 30, 2020: https://github.com/RANDCorporation/Temporary-Layoff-Transitions.
 
 ## Project Members:
 
@@ -48,4 +50,4 @@ Kathryn Edwards (kathryne@rand.org) and Daniel Schwam (dschwam@rand.org)
 
 ## Suggested Citation for this repository: 
 
-Schwam, Daniel, and Kathryn Edwards, "For Leisure and Hospitality, Weak Recovery Still Looks Like Recession," GitHub, RAND Corporation Repository, last updated 10 September 2020. As of September 10, 2020: https://github.com/RANDCorporation/Leisure-Hospitality-Layoffs
+Schwam, Daniel, and Kathryn Edwards, "For Leisure and Hospitality, Weak Recovery Still Looks Like Recession," GitHub, RAND Corporation Repository, last updated 1 October 2020. As of October 1, 2020: https://github.com/RANDCorporation/Leisure-Hospitality-Layoffs
